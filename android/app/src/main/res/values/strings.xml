@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PetroQAS</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">lgIE037FnNXA0sXC7f5W6bJKGwMsYdtBnSPuc</string>
+</resources>
